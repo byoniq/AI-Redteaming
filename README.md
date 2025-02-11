@@ -15,7 +15,7 @@
 - [License](#license)
 
 ## Overview
-This repository contains a curated list of open-source tools for AI security, red teaming, and fairness assessment. These tools are categorized based on their functionality to help researchers, developers, and security professionals enhance the robustness, fairness, and security of AI systems [4]. A good README file helps explain what the project is about, how users can install it, and how to use it [1].
+This repository contains a curated list of open-source tools for AI security, red teaming, and fairness assessment. These tools are categorized based on their functionality to help researchers, developers, and security professionals enhance AI systems' robustness, fairness, and security [4]. A good README file helps explain what the project is about, how users can install it, and how to use it [1].
 
 ---
 
@@ -25,20 +25,21 @@ Tools for generating adversarial examples and testing model defenses:
 - **Foolbox**: A Python library for creating adversarial examples to test neural network defenses. ([Foolbox](https://github.com/bethgelab/foolbox))
 - **TextAttack**: A framework for adversarial attacks in NLP tasks. ([TextAttack](https://github.com/QData/TextAttack))
 - **Counterfit**: Microsoft's CLI tool for automating adversarial AI red teaming. ([Counterfit](https://github.com/Azure/counterfit))
+- **PyRIT**: The Python Risk Identification Tool for generative AI (PyRIT) is an open-source framework built to empower security professionals and engineers to proactively identify risks in generative AI systems.([PyRIT](https://github.com/Azure/PyRIT)
 
 ---
 
 ## 2. AI Model Extraction & Inference Attacks
 Tools for reverse engineering models or testing privacy vulnerabilities:
-- **Model Inversion Toolkit**: Reverse-engineers AI models using API responses. (No direct link provided in the search results)
-- **MIA (Membership Inference Attack)**: Tests whether specific data samples were used during model training. (No direct link provided in the search results)
+- **Model Inversion Toolkit**: Reverse-engineers AI models using API responses. ([Model Inversion Toolkit](https://github.com/ffhibnese/Model-Inversion-Attack-ToolBox))
+- **MIA (Membership Inference Attack)**: Tests whether specific data samples were used during model training. 
 - **Pytorch Captum**: A library for model explainability and security auditing. ([Pytorch Captum](https://github.com/pytorch/captum))
 
 ---
 
 ## 3. AI Bias & Fairness Testing
 Tools for assessing and mitigating bias in machine learning models:
-- **AI Fairness 360 (AIF360)**: IBM's toolkit offering over 70 fairness metrics and 10 bias mitigation algorithms [2][4][6]. ([AI Fairness 360](https://ai-fairness-360.org))
+- **AI Fairness 360 (AIF360)**: IBM's toolkit offering over 70 fairness metrics and 10 bias mitigation algorithms ([AI Fairness 360](https://ai-fairness-360.org))
 - **Fairlearn**: Microsoft's library for fairness evaluation and mitigation in ML models. ([Fairlearn](https://github.com/fairlearn/fairlearn))
 
 ---
@@ -47,13 +48,13 @@ Tools for assessing and mitigating bias in machine learning models:
 Tools for securing machine learning pipelines:
 - **SecML**: A library for security testing of ML models. ([SecML](https://github.com/secml/secml))
 - **PrivacyRaven**: A framework for testing privacy vulnerabilities in AI systems. ([PrivacyRaven](https://github.com/AI-infrastructure-Foundation/PrivacyRaven))
-- **Snorkel**: A data labeling and augmentation tool useful for detecting data poisoning. ([Snorkel](https://github.com/snorkel-ai/snorkel))
+- **Snorkel**: A data labeling and augmentation tool for detecting data poisoning. ([Snorkel](https://github.com/snorkel-ai/snorkel))
 
 ---
 
 ## 5. LLM Security & Red Teaming
 Specialized tools for large language models (LLMs):
-- **PyRIT (Python Risk Identification Toolkit)**: Microsoft's tool for automated red teaming of generative AI systems. It includes features like prompt generation, scoring engines, and attack strategies [1][3][5][7]. (No direct link to PyRIT GitHub provided in the search results)
+- **PyRIT (Python Risk Identification Toolkit)**: Microsoft's tool for automated red teaming of generative AI systems. It includes features like prompt generation, scoring engines, and attack strategies.
 - **DeepEval**: An open-source framework designed for LLM evaluation and red teaming. ([DeepEval](https://github.com/confident-ai/deepeval))
 - **Prompt Inject**: Evaluates vulnerabilities to prompt injection attacks. ([Prompt Inject](https://github.com/protectai/prompt-inject))
 - **LLM Guard**: A security toolkit for filtering and mitigating LLM-based attacks. ([LLM Guard](https://github.com/laiyer-ai/llm-guard))
@@ -70,13 +71,12 @@ Tools focused on securing the deployment of AI models:
 
 ## 7. AI Attack Simulation & Red Teaming Frameworks
 Comprehensive frameworks for simulating AI attacks:
-- **MITRE ATLAS**: MITRE's framework focusing on adversarial tactics in machine learning. ([MITRE ATLAS](https://atlas.mitre.org/))
-- **AI Village Attack Techniques**: Community-driven tactics and techniques for red teaming AI/ML systems. (No direct link provided in the search results)
+- **MITRE ATLAS**: MITRE's framework focuses on adversarial tactics in machine learning. ([MITRE ATLAS](https://atlas.mitre.org/))
 
 ---
 
 ## Contribution
-We welcome contributions to this repository! Please submit a pull request or open an issue to suggest new tools or improvements. A good README should tell people how they can contribute to the project [8].
+We welcome contributions to this repository! Please submit a pull request or open an issue to suggest new tools or improvements. A good README should tell people how they can contribute to the project
 
 ## License
 This repository is licensed under the [MIT License](LICENSE).
