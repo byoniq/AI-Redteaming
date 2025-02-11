@@ -15,7 +15,7 @@
 - [License](#license)
 
 ## Overview
-This repository contains a curated list of open-source tools for AI security, red teaming, and fairness assessment. These tools are categorized based on their functionality to help researchers, developers, and security professionals enhance AI systems' robustness, fairness, and security [4]. A good README file helps explain what the project is about, how users can install it, and how to use it [1].
+This repository contains a curated list of open-source tools for AI security, red teaming, and fairness assessment. These tools are categorized based on their functionality to help researchers, developers, and security professionals enhance AI systems' robustness, fairness, and security. A good README file helps explain what the project is about, how users can install it, and how to use it.
 
 ---
 
@@ -25,7 +25,7 @@ Tools for generating adversarial examples and testing model defenses:
 - **Foolbox**: A Python library for creating adversarial examples to test neural network defenses. ([Foolbox](https://github.com/bethgelab/foolbox))
 - **TextAttack**: A framework for adversarial attacks in NLP tasks. ([TextAttack](https://github.com/QData/TextAttack))
 - **Counterfit**: Microsoft's CLI tool for automating adversarial AI red teaming. ([Counterfit](https://github.com/Azure/counterfit))
-- **PyRIT**: The Python Risk Identification Tool for generative AI (PyRIT) is an open-source framework built to empower security professionals and engineers to proactively identify risks in generative AI systems.([PyRIT](https://github.com/Azure/PyRIT)
+- **PyRIT**: The Python Risk Identification Tool for generative AI (PyRIT) is an open-source framework built to empower security professionals and engineers to proactively identify risks in generative AI systems.([PyRIT](https://github.com/Azure/PyRIT))
 
 ---
 
