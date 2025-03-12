@@ -15,6 +15,7 @@
 - [9. Incident Databases](#9-incident-databases)
 - [10. Python Pickle Scanners](#10-python-pickle-scanners)
 - [11. AI Red Teaming Playgrounds](#11-ai-red-teaming-playgrounds)
+- [12. AI Bug Bounty Programs](#12-ai-bug-bounty-programs)
 - [Contribution](#contribution)
 - [License](#license)
 
@@ -125,6 +126,16 @@ Interactive platforms for experimenting with and red teaming AI models, particul
 - **AssemblyAI Playground**: An environment to test speech-to-text models and explore LLM interactions with audio data. ([Website](https://www.assemblyai.com/playground))
 - **PromptSandbox.io**: A platform for prototyping and refining AI models with pre-trained GPTs, useful for red teaming experiments. ([Website](https://promptsandbox.io/))
 - **Hugging Face Spaces**: Hosts interactive demos and playgrounds for testing LLMs and other AI models, often with red teaming potential. ([Website](https://huggingface.co/spaces))
+
+---
+
+## 12. AI Bug Bounty Programs
+Programs incentivizing researchers to identify and report vulnerabilities in AI systems:
+- **0Din by Mozilla**: A pioneering GenAI bug bounty program targeting vulnerabilities in LLMs and deep learning systems, offering rewards from $500 to $15,000 based on severity. ([Website](https://0din.ai/))
+- **Bugcrowd AI Security Program**: A crowdsourced platform hosting bug bounties for AI-related vulnerabilities, often partnered with companies deploying AI solutions. ([Website](https://www.bugcrowd.com/solutions/ai-security/))
+- **HackerOne AI Bug Bounty Challenges**: Offers specific challenges for AI and ML vulnerabilities, collaborating with organizations to secure AI deployments. ([Website](https://www.hackerone.com/vulnerability-management/ai-security))
+- **OpenAI Bug Bounty Program**: Rewards researchers for finding security flaws in OpenAI’s systems, including ChatGPT and its underlying infrastructure. ([Website](https://openai.com/security/bug-bounty-program))
+- **Google Vulnerability Reward Program (VRP) for AI**: Expanded to include AI-specific vulnerabilities in Google’s ML and generative AI products. ([Website](https://bughunters.google.com/about/rules))
 
 ---
 
