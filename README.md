@@ -14,6 +14,7 @@
 - [8. Standards, Frameworks, & Compliance](#8-standards-frameworks--compliance)
 - [9. Incident Databases](#9-incident-databases)
 - [10. Python Pickle Scanners](#10-python-pickle-scanners)
+- [11. AI Red Teaming Playgrounds](#11-ai-red-teaming-playgrounds)
 - [Contribution](#contribution)
 - [License](#license)
 
@@ -114,6 +115,16 @@ Tools for detecting vulnerabilities in Python pickle files:
 - **Stable Diffusion Pickle Scanner**: Detects threats in Stable Diffusion pickle files. ([GitHub](https://github.com/zxix/stable-diffusion-pickle-scanner))
 - **Stable Diffusion Pickle Scanner GUI**: A GUI version of the scanner. ([GitHub](https://github.com/diStyApps/Stable-Diffusion-Pickle-Scanner-GUI))
 - **Fickling**: A tool to detect and mitigate pickle file attacks. ([GitHub](https://github.com/trailofbits/fickling))
+
+---
+
+## 11. AI Red Teaming Playgrounds
+Interactive platforms for experimenting with and red teaming AI models, particularly LLMs:
+- **MyLLMBank**: A playground for testing and stressing LLMs with various prompts to evaluate robustness and vulnerabilities. ([Website](https://myllmbank.com/))
+- **Vercel AI Playground**: Allows side-by-side comparison of LLM responses for testing and red teaming purposes. ([Website](https://play.vercel.ai/))
+- **AssemblyAI Playground**: An environment to test speech-to-text models and explore LLM interactions with audio data. ([Website](https://www.assemblyai.com/playground))
+- **PromptSandbox.io**: A platform for prototyping and refining AI models with pre-trained GPTs, useful for red teaming experiments. ([Website](https://promptsandbox.io/))
+- **Hugging Face Spaces**: Hosts interactive demos and playgrounds for testing LLMs and other AI models, often with red teaming potential. ([Website](https://huggingface.co/spaces))
 
 ---
 
