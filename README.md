@@ -136,6 +136,7 @@ Programs incentivizing researchers to identify and report vulnerabilities in AI 
 - **HackerOne AI Bug Bounty Challenges**: Offers specific challenges for AI and ML vulnerabilities, collaborating with organizations to secure AI deployments. ([Website](https://www.hackerone.com/vulnerability-management/ai-security))
 - **OpenAI Bug Bounty Program**: Rewards researchers for finding security flaws in OpenAI’s systems, including ChatGPT and its underlying infrastructure. ([Website](https://openai.com/security/bug-bounty-program))
 - **Google Vulnerability Reward Program (VRP) for AI**: Expanded to include AI-specific vulnerabilities in Google’s ML and generative AI products. ([Website](https://bughunters.google.com/about/rules))
+- **Gandalf**: Gandalf is a prompt injection challenge with eight levels that get increasingly harder. The goal of Gandalf is to reveal the secret password that the LLM is protecting, using prompt injection. ([Website](https://gandalf.lakera.ai/))
 
 ---
 
