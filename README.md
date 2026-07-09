@@ -171,6 +171,7 @@ For builders, but red teamers should know what they're testing against.
 - **[Vigil](https://github.com/deadbits/vigil-llm)** — LLM prompt injection scanner
 - **[LangKit](https://github.com/whylabs/langkit)** — WhyLabs' LLM telemetry / monitoring with safety signals
 - **[Lakera Guard](https://www.lakera.ai/lakera-guard)** *(commercial, free tier)* — hosted prompt injection / data loss API
+- **[DarkMoon Privacy Gateway](https://github.com/ASCIT31/Dark-Moon)** — self-hosted proxy that replaces sensitive values with deterministic reversible placeholders before prompts reach the LLM (the model never sees real data) and restores them in the response, with an anti-exfiltration command gateway
 - **[Llama Guard 3 / 4](https://github.com/meta-llama/PurpleLlama)** — Meta's safety classifier models (open weights)
 
 ---
