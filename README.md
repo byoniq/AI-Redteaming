@@ -60,9 +60,11 @@ Automated and semi-automated tooling for testing LLM systems.
 - **[garak](https://github.com/NVIDIA/garak)** — NVIDIA's LLM vulnerability scanner. Probe-and-detector architecture, dozens of attack categories (encoding tricks, DAN variants, prompt leak, toxicity, RealToxicityPrompts, etc.). Think `nmap` for LLMs.
 - **[promptfoo](https://github.com/promptfoo/promptfoo)** — LLM evaluation + red teaming. Strong YAML-driven test harness, OWASP LLM Top 10 preset built in.
 - **[DeepEval](https://github.com/confident-ai/deepeval)** — pytest-style LLM evaluation framework with red team modules.
-- **[Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai)** — UK AISI's evaluation framework. Increasingly the standard for safety evals and dangerous-capability testing.
+- **[Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai)**
+- **[Redcells](https://github.com/awdemos/redcell)** — Automated adversarial testing platform for LLMs you own or control. Run structured red-team jobs with iterative attack→refine layers and review per-layer prompts, responses, and judge scores via dashboard or API. OpenAI-compatible targets and judges. — UK AISI's evaluation framework. Increasingly the standard for safety evals and dangerous-capability testing.
 - **[Mantis](https://github.com/PasqualeDeRosa/mantis)** *(verify before use — research project, lightly maintained)* — Trail of Bits' framework for LLM adversarial testing
 - **[TextAttack](https://github.com/QData/TextAttack)** — Adversarial attacks on NLP models (still useful for classifier-style targets; less relevant to large autoregressive models).
+- **[Redcells](https://github.com/awdemos/redcell)** — Automated adversarial testing platform for the LLMs you own or control.
 - ⚠ **Counterfit** — Microsoft archived this in 2023 in favor of PyRIT. Don't start here.
 
 ---
