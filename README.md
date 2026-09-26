@@ -252,6 +252,7 @@ Red teaming and eval converge. Use these to baseline a model and measure post-mi
 - **[AI Incident Database (AIID)](https://incidentdatabase.ai/)** — Real-world AI incidents (Partnership on AI)
 - **[OECD AI Incidents Monitor](https://oecd.ai/en/incidents)** — Tracks AI-related incidents internationally
 - **[MITRE ATLAS Case Studies](https://atlas.mitre.org/studies)** — Real attacks mapped to the ATLAS matrix
+- **[Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive)** — AI agent security incidents since 2025 (coding agents, MCP, agent supply chain); each record cites primary sources and flags confirmed harm vs. research demos. Research-quality, CC BY 4.0
 
 ---
 
