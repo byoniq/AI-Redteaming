@@ -259,6 +259,7 @@ Red teaming and eval converge. Use these to baseline a model and measure post-mi
 
 For practice, training, and demonstrating attacks safely.
 
+- **[Memory Poisoning Lab](https://github.com/RishabhPande/memory-poison-lab)** - Local educational test range for persistent-memory poisoning, origin-aware defenses and repair; synthetic targets and a scripted deterministic agent, not a real-LLM security benchmark.
 - **[Gandalf](https://gandalf.lakera.ai/)** — Lakera's prompt-injection CTF, 8 levels + extras. The classic starter.
 - **[Tensor Trust](https://tensortrust.ai/)** — Prompt injection / defense game (Berkeley)
 - **[Doublespeak](https://doublespeak.chat/)** — Jailbreak chat-style challenges
